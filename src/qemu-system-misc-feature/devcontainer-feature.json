@@ -1,0 +1,12 @@
+{
+  "id": "qemu-system-misc",
+  "version": "0.0.1",
+  "name": "qemu-system-misc",
+  "documentationURL": "https://github.com/Loag/qemu-system-misc-feature",
+  "description": "Installs qemu-system-misc",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
